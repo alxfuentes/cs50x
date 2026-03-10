@@ -1,0 +1,18 @@
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+hello
+
+# Build directories
+build/
+obj/
+
+# IDE files
+.vscode/
+
+# Temporary files
+*~
+*.swp
